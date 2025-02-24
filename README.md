@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vineet-san
-- 👀 I’m interested in artificial intelligance and machine learning
-- 🌱 I’m currently learning phython, swift, anything intresting and etc.
-- 💞️ I’m looking to collaborate on any innovative and intresting project.
+- 👋 Hi, I’m Vineet0san
+- 👀 I’m interested in artificial intelligence and machine learning
+- 🌱 I’m currently learning Python, javascript, C++, anything interesting, etc.
+- 💞️ I’m looking to collaborate on any innovative and interesting project.
 
 <!---
 Vineet-san/Vineet-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
